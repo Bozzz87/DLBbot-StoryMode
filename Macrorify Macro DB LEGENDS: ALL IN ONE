@@ -1,0 +1,93 @@
+Macrorify DB LEGENDS: ALL IN ONE
+Uploader:
+https://www.kok-emm.com/macro/988
+Macro Options
+
+1. World Challenge Raid:-
+
+Important points before you run the macro:
+
+Choose the boost Character so you can clear the raid easily. (Create party before starting the macro)
+Macro also fights for you. (Note: REMOVE ARTS CARD SLEEVE)
+Macro also selects Rising Rush when the boss's shield is down.
+Macro also handles no match found and connection lost issues
+
+How to use:
+
+Open World challenge Raid event >> Start the macro >> Select "World Challenge Raid" option >> enter how many times you want to run macro in "Macro Run".
+
+2. Hyper Dimensional Co-Op:-
+
+It's same as World challenge Raid.
+
+Open the Co-Op level selection window and confirm the level in settings before starting macro.
+
+
+3. Story Auto Complete:-
+
+Story Mode Demo
+
+Event Demo
+
+
+Important points before you start the macro:
+
+Set fight to auto-battle
+First 3 characters in the party will be selected for battle
+Make sure those characters are high level so that auto fight doesn't result in defeat
+
+The following event may stop macro:
+
+Communication errors
+Character deployment condition not fulfilled.
+Party's Power level is lower than required.
+
+Event handlers in the macro:
+
+Character level maxed.
+Resource holding limit exceeded. (Close the pop up)
+Friendship rank increased reward. (Close the pop up through tap action)
+All-Story missions completed reward. (Through tap action)
+
+Possible use:
+
+To complete the story mode
+It also supports Various Events as well (from version 2.1.0)
+
+4. Rematch Auto:-
+
+
+It's pretty self-explanatory. But it only starts rematch with the same battle members so you need to start the match with high-level characters and set the battle mode to auto so it Fights on auto. It can be useful to do the same story chapter over and over again to increase the character's friendship level.
+
+
+Note: Option is still a work in progress and updates will be issued in the future.
+
+
+
+5. Adventure Embark Mission:-
+
+
+
+Before you start this macro enter the no of runs.No of runs = Available requests / 3
+
+It uses "Auto Adventure Feature", so adventure selection will be based on the game preference.
+
+New Feature Single slot run added from version 2.5.0
+
+
+6. PvP Training Battle (Beta Testing):-
+
+Option is available from version 2.1.3
+
+
+Important points before you run the macro:
+
+Create party before starting the macro
+Auto Fight (Note: REMOVE ARTS CARD SLEEVE)
+How to use:
+
+Open PvP window >> Select Training Battle >> Start the macro >> Select "PvP Training Battle" >> enter how many times you want to run macro in "Macro Run".
+Possible use:
+
+Servers twin purpose of farming Equipment Medals and Adventure Request.
+Very helpfull when combined with "Adventure Embark Mission" option.
